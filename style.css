@@ -30,17 +30,17 @@ header {
     height: auto;
     display: flex;
     flex-direction: column;
+    background-color: #444;
     background-image: url("/photos/andrew-neel-z55CR_d0ayg-unsplash.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #222;
 }
 
 nav {
     width: 100%;
     max-height: 100px;
-    background: linear-gradient(90deg, #000000, transparent 40%, transparent 60%, #000000);
+    background: linear-gradient(90deg, #000000, transparent 30%, transparent 70%, #000000);
     display: flex;
     justify-content: space-between;
     align-items: center;
