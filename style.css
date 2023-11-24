@@ -31,7 +31,7 @@ header {
     display: flex;
     flex-direction: column;
     background-color: #444;
-    background-image: url("/photos/andrew-neel-z55CR_d0ayg-unsplash.jpg");
+    background-image: url("photos/andrew-neel-z55CR_d0ayg-unsplash.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
